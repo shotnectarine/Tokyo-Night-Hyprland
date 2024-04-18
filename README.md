@@ -1,4 +1,6 @@
-The defaults for this setup require bluetuith and pulsemixer installed at a minimum
+UPDATE: Replaced nautilus with yazi
+
+The defaults for this setup require bluetuith, yazi and pulsemixer installed at a minimum
 
 Have a great day and keep on ricing
 
